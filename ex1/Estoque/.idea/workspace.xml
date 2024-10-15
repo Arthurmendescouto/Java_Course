@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="714a4294-8b27-4399-b369-15779ba580d5" name="Changes" comment="atualizando" />
+    <list default="true" id="714a4294-8b27-4399-b369-15779ba580d5" name="Changes" comment="atualizando">
+      <change afterPath="$PROJECT_DIR$/../../ex2/untitled/src/entities/formulas.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
