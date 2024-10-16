@@ -9,11 +9,17 @@ public class formulas {
     public double area(){
         return height*width;
     }
-    public double perimetro(){
-     return
+    public double perimeter(){
+     return 2*(height+width);
+    }
+    public double diagonal(){
+        return Math.sqrt(Math.pow(height,2)+Math.pow(width,2));
     }
     public String toString(){
          return texto
-                 +"AREA= " + area();
+                 +"AREA= " + String.format("%.2f",area())+"\n"
+                 +"PERIMETER= "+ String.format("%.2f",perimeter())+"\n"
+                 +"DIAGONAL= "+ String.format("%.2f",diagonal());
+
     }
 }
