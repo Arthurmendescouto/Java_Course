@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="714a4294-8b27-4399-b369-15779ba580d5" name="Changes" comment="atualizando">
-      <change beforePath="$PROJECT_DIR$/../../ex2/untitled/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex2/untitled/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex2/untitled/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex2/untitled/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex2/untitled/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex2/untitled/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex2/untitled/src/entities/formulas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex2/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/ex_area/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex2/ex_area/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex2/ex_area/src/entities/formulas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex2/ex_area/src/entities/formulas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
