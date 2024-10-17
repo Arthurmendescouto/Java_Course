@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="714a4294-8b27-4399-b369-15779ba580d5" name="Changes" comment="atualizando">
+      <change afterPath="$PROJECT_DIR$/../../ex3/untitled/salary_calc.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex2/ex_area/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex2/ex_area/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex2/ex_area/src/entities/formulas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex2/ex_area/src/entities/formulas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex2/out/production/ex2/entities/formulas.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex2/out/production/ex2/entities/formulas.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +47,7 @@
   &quot;keyToString&quot;: {
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/pedro/OneDrive/Documentos/GitHub/curso-java-OOP/ex2&quot;,
