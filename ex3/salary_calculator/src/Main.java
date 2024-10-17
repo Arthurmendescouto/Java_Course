@@ -12,7 +12,7 @@ public class Main {
 
         Employee employee=new Employee();
         System.out.print("Name: ");
-        employee.name=sc.next();
+        employee.name=sc.nextLine();
         System.out.print("Gross salary: ");
         employee.grossSalary= sc.nextDouble();
         System.out.print("Tax: ");
