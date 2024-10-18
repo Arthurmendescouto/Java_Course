@@ -38,5 +38,6 @@ public class Main {
         System.out.println();
         System.out.println("Update data: "+product);
         sc.close();
+
         }
     }
